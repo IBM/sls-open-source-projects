@@ -29,7 +29,7 @@ For each project, please provide the following information:
 
 ## License
 
-This project is licensed under the [Creative Commons Zero (CC0 1.0)](LICENSE) license, and all contributions must also be licensed under this license. More information can be found at
+This project is licensed under the terms of the [Creative Commons Zero (CC0 1.0)](LICENSE) license, and all contributions must also be licensed under these terms. More information can be found at
 
 https://creativecommons.org/publicdomain/zero/1.0/
 

@@ -10,6 +10,6 @@ Curated list of open source projects which are either created by [IBM Lab Servic
 
 ## License
 
-This project is licensed under the [Creative Commons Zero (CC0 1.0)](LICENSE) license.
+This project is licensed under the terms of the [Creative Commons Zero (CC0 1.0)](LICENSE) license.
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
