@@ -5,7 +5,7 @@ Curated list of open source projects which are either created by [IBM Lab Servic
 
 ## Projects
 
-### Spectrum Scale (GPFS) Ansible Role
+### IBM Spectrum Scale (GPFS) - Ansible Role
 * Lab Services contacts:
   * Achim Christ <achim.christ@de.ibm.com>
   * Ole Kristian Myklebust <ole.kristian.myklebust@no.ibm.com>
@@ -26,7 +26,7 @@ Curated list of open source projects which are either created by [IBM Lab Servic
 ### IBM Spectrum Virtualize IP-Quorum - Ansible Role
 * Lab Services contacts:
   * Ole Kristian Myklebust <ole.kristian.myklebust@no.ibm.com>
-* Programming language: Ansible (YAML) 
+* Programming language: Ansible (YAML)
 * Platform: RHEL 7
 * Links:
   - [Ansible Galaxy](https://galaxy.ansible.com/olemyk/ansible_ipquorum)
@@ -39,9 +39,9 @@ Curated list of open source projects which are either created by [IBM Lab Servic
 
 - **User story:**
   The IP-quorum application is a Java application that runs on a separate host. IP-Quorum application is not an service and the host needs Java installed to run.
-  Many times the customer asked how could we run this as a service, we created then a service that made it possible to run the service but the whole installation is with several manual steps. 
+  Many times the customer asked how could we run this as a service, we created then a service that made it possible to run the service but the whole installation is with several manual steps.
   So with that i wanted to simplify and automate the installation of IP-Quorum, and with this Ansible role it will install Java, create ip-quorum service, copies in IP-Quorum Java application localy or remotly from Spectrum Virtualize cluster and more.
-  
+
 
 ### IBM Spectrum Control - Ansible Role
 * Lab Services contacts:
@@ -58,7 +58,7 @@ Curated list of open source projects which are either created by [IBM Lab Servic
   IBM Spectrum Control provides monitoring, automation and analytics for multiple-vendor storage environments.
 
 - **User Story:**
-  The Spectrum Control installation can be sometimes time-consuming, boring and upgrades are getting more frequent. So with that i wanted to simplify and automate the installation of IBM Spectrum Control and IBM DB2. 
+  The Spectrum Control installation can be sometimes time-consuming, boring and upgrades are getting more frequent. So with that i wanted to simplify and automate the installation of IBM Spectrum Control and IBM DB2.
 
 
 ### IBM DB2 - Ansible Role
@@ -67,9 +67,9 @@ Curated list of open source projects which are either created by [IBM Lab Servic
 * Programming language: Ansible (YAML)
 * Platform: RHEL 7
 * Links:
-  * [Ansible Galaxy](https://galaxy.ansible.com/olemyk/ansible_role_db2/)
-  * [GitHub](https://github.com/olemyk/ansible-role-db2)
-  
+  - [Ansible Galaxy](https://galaxy.ansible.com/olemyk/ansible_role_db2/)
+  - [GitHub](https://github.com/olemyk/ansible-role-db2)
+
 - **Description:**
   Ansible role to install IBM DB2 on linux, this project have been forked and updated to work with newer DB2 version and IBM Spectrum Control.
 
