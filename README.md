@@ -73,6 +73,15 @@ Curated list of open source projects which are either created by [IBM Lab Servic
 - **Description:**
   Ansible role to install IBM DB2 on linux, this project have been forked and updated to work with newer DB2 version and IBM Spectrum Control.
 
+## IBM Spectrum Virtualize - Ansible playbooks
+* Lab Services contacts:
+  - Ole Kristian Myklebust <ole.kristian.myklebust@no.ibm.com>
+* Programming language: Ansible (YAML)
+* Links:
+  - [GitHub](https://github.com/olemyk/ansible-virtualize-playbooks)
+
+- **Description:**
+  Ansible playbooks examples for the Ansible Collection - ibm.spectrum_virtualize
 
 ## License
 
