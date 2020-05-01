@@ -79,7 +79,7 @@ Curated list of open source projects which are either created by [IBM Lab Servic
 * Programming language: Ansible (YAML)
 * Links:
   - [GitHub](https://github.com/olemyk/ansible-virtualize-playbooks)
-
+  - [Medium](https://medium.com/@ole.kr.myklebust/managing-your-spectrum-virtualize-with-ansible-part-1-6f3ec173948f)
 - **Description:**
   Ansible playbooks examples for the Ansible Collection - ibm.spectrum_virtualize
 
