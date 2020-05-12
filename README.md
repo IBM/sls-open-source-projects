@@ -73,7 +73,8 @@ Curated list of open source projects which are either created by [IBM Lab Servic
 - **Description:**
   Ansible role to install IBM DB2 on linux, this project have been forked and updated to work with newer DB2 version and IBM Spectrum Control.
 
-## IBM Spectrum Virtualize - Ansible playbooks
+
+### IBM Spectrum Virtualize - Ansible playbooks
 * Lab Services contacts:
   - Ole Kristian Myklebust <ole.kristian.myklebust@no.ibm.com>
 * Programming language: Ansible (YAML)
@@ -83,6 +84,21 @@ Curated list of open source projects which are either created by [IBM Lab Servic
 - **Description:**
   Ansible playbooks examples for the Ansible Collection - ibm.spectrum_virtualize
 
+
+### BaaSapi - GUI for hyperledger fabric network
+* Lab Services contacts:
+  - Liyong Li <liyong.li@ibm.com>
+* Programming language: Golang (API) and VUEjs (frontend)
+* Platform: Linux
+* Links:
+  - [GitHub](https://github.com/liyong-li/baasapi)
+  - [PDF](https://github.com/liyong-li/baasapi/blob/master/Blockchain_Platform_Solution_v1.0.pdf)
+
+- **Description:**
+  BaaSapi is a lightweight management UI which allows you to easily manage your hyperledger fabric environments (Supported with kubernetes environment).
+  BaaSapi allows you to manage your hyperledger fabric resources (network, organization, nodes, CA, channel, chaincodes and more) !
+  
+  
 ## License
 
 This project is licensed under the terms of the [Creative Commons Zero (CC0 1.0)](LICENSE) license.
