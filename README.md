@@ -96,7 +96,7 @@ This project is licensed under the terms of the [Creative Commons Zero (CC0 1.0)
 * Platform: Linux
 * Links:
   - [GitHub](https://github.com/liyong-li/baasapi)
-  - [PDF](https://github.ibm.com/Liyong-Li/baasapi/blob/master/Blockchain_Platform_Solution_v1.0.pdf)
+  - [PDF](https://github.com/liyong-li/baasapi/blob/master/Blockchain_Platform_Solution_v1.0.pdf)
 
 - **Description:**
   BaaSapi is a lightweight management UI which allows you to easily manage your hyperledger fabric environments (Supported with kubernetes environment).
