@@ -95,10 +95,46 @@ Curated list of open source projects which are either created by [IBM Lab Servic
   - [PDF](https://github.com/liyong-li/baasapi/blob/master/Blockchain_Platform_Solution_v1.0.pdf)
 
 - **Description:**
-  BaaSapi is a lightweight management UI which allows you to easily manage your hyperledger fabric environments (Supported with kubernetes environment).
-  BaaSapi allows you to manage your hyperledger fabric resources (network, organization, nodes, CA, channel, chaincodes and more) !
-  
-  
+  BaaSapi is a lightweight management UI which allows you to easily manage your hyperledger fabric environments (supported with kubernetes environment).
+  BaaSapi allows you to manage your hyperledger fabric resources (network, organization, nodes, CA, channel, chaincodes and more)!
+
+
+### Docker Files for s390x
+* Lab Services contacts:
+  - Guillaume Hoareau <guillaume_hoareau@fr.ibm.com>
+* Programming language: Dockerfile
+* Platform: Linux on IBM Z
+* Links:
+  - [GitHub](https://github.com/linux-on-ibm-z/dockerfile-examples)
+
+- **Description:**
+  A collection of examples to show how Dockerfiles could be created and used on Linux on IBM Z, LinuxONE or z/OS CX.
+
+
+### IBM Data Privacy Passports - Hands-on Lab
+* Lab Services contacts:
+  - Guillaume Hoareau <guillaume_hoareau@fr.ibm.com>
+* Programming language: Markdown
+* Platform: Linux on IBM Z
+* Links:
+  - [GitHub](https://github.com/guikarai/IBMDPP)
+
+- **Description:**
+  Hands-On Lab about IBM Data Privacy Passports to protect the data at the consumption and the extraction point.
+
+
+### Pervasive Encryption - Hands-on Lab
+* Lab Services contacts:
+  - Guillaume Hoareau <guillaume_hoareau@fr.ibm.com>
+* Programming language: Markdown
+* Platform: Linux on IBM Z
+* Links:
+  - [GitHub](https://github.com/guikarai/PE-LinuxONE-1804LTS)
+
+- **Description:**
+  Hands-On Lab about Pervasive Encryption for LinuxONE and Linux on IBM Z. A walkthrough for understanding how to encrypt data at speed and volume, at rest and in motion.
+
+
 ## License
 
 This project is licensed under the terms of the [Creative Commons Zero (CC0 1.0)](LICENSE) license.
