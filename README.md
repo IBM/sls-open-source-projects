@@ -3,6 +3,24 @@
 Curated list of open source projects which are either created by [IBM Lab Services](https://www.ibm.com/it-infrastructure/services/lab-services) consultants, or to which Lab Services consultants contribute to. [Please bring your own!](CONTRIBUTING.md)
 
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [IBM Spectrum Scale (GPFS) - Ansible Role](#ibm-spectrum-scale-gpfs---ansible-role)
+- [IBM Spectrum Virtualize IP-Quorum - Ansible Role](#ibm-spectrum-virtualize-ip-quorum---ansible-role)
+- [IBM Spectrum Control - Ansible Role](#ibm-spectrum-control---ansible-role)
+- [IBM DB2 - Ansible Role](#ibm-db2---ansible-role)
+- [IBM Spectrum Virtualize - Ansible playbooks](#ibm-spectrum-virtualize---ansible-playbooks)
+- [BaaSapi - GUI for hyperledger fabric network](#baasapi---gui-for-hyperledger-fabric-network)
+- [Docker Files for s390x](#docker-files-for-s390x)
+- [IBM Data Privacy Passports - Hands-on Lab](#ibm-data-privacy-passports---hands-on-lab)
+- [Pervasive Encryption - Hands-on Lab](#pervasive-encryption---hands-on-lab)
+- [Spectrum Virtualize Check (SVCheck)](#spectrum-virtualize-check-svcheck)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+
 ## Projects
 
 ### IBM Spectrum Scale (GPFS) - Ansible Role
