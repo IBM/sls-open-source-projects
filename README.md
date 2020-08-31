@@ -135,6 +135,19 @@ Curated list of open source projects which are either created by [IBM Lab Servic
   Hands-On Lab about Pervasive Encryption for LinuxONE and Linux on IBM Z. A walkthrough for understanding how to encrypt data at speed and volume, at rest and in motion.
 
 
+### Spectrum Virtualize Check (SVCheck)
+* Lab Services contacts:
+  - Luis Bolinches <luis.bolinches@fi.ibm.com>
+  - Mika Heino <mika.heino@fi.ibm.com>
+* Programming language: Python
+* Platform: Python 3
+* Links:
+  - [GitHub](https://github.com/IBM/SVCheck)
+
+- **Description:**
+  This tools generates Excel file of Spectrum Virtualize system via REST API calls.
+
+
 ## License
 
 This project is licensed under the terms of the [Creative Commons Zero (CC0 1.0)](LICENSE) license.
