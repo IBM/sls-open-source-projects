@@ -19,6 +19,7 @@ Curated list of open source projects which are either created by [IBM Lab Servic
 - [Spectrum Virtualize Check (SVCheck)](#spectrum-virtualize-check-svcheck)
 - [Spectrum Scale Policy Scripts](#spectrum-scale-policy-scripts)
 - [Spectrum Archive Enterprise Edition Check (check_spectrumarchive.sh)](#spectrum-archive-enterprise-edition-check-check_spectrumarchivesh)
+- [iRODS Tiered-Storage Tape](#irods-tiered-storage-tape)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -192,6 +193,18 @@ Curated list of open source projects which are either created by [IBM Lab Servic
 
 - **Description:**
   This utility performs status checks of IBM Spectrum Archive Enterprise Edition components. It can be integrated with the IBM Spectrum Scale event monitoring framework, or with Nagios, Icinga, or compatible monitoring systems.
+
+
+### iRODS Tiered-Storage Tape
+* Lab Services contacts:
+  - Nils Haustein <nils_haustein@de.ibm.com>
+* Programming language: Bash
+* Platform: iRODS
+* Links:
+  - [GitHub](https://github.com/nhaustein/irods-tieredStorage-tape)
+
+- **Description:**
+  This project includes examples for integrating iRODS software with IBM Spectrum Scale™ and Spectrum Archive™ Enterprise Edition.
 
 
 ## License
