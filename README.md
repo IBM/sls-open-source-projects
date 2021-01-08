@@ -17,6 +17,7 @@ Curated list of open source projects which are either created by [IBM Lab Servic
 - [IBM Data Privacy Passports - Hands-on Lab](#ibm-data-privacy-passports---hands-on-lab)
 - [Pervasive Encryption - Hands-on Lab](#pervasive-encryption---hands-on-lab)
 - [Spectrum Virtualize Check (SVCheck)](#spectrum-virtualize-check-svcheck)
+- [Spectrum Scale Policy Scripts](#spectrum-scale-policy-scripts)
 - [Spectrum Archive Enterprise Edition Check (check_spectrumarchive.sh)](#spectrum-archive-enterprise-edition-check-check_spectrumarchivesh)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -166,6 +167,18 @@ Curated list of open source projects which are either created by [IBM Lab Servic
 
 - **Description:**
   This tools generates Excel file of Spectrum Virtualize system via REST API calls.
+
+
+### Spectrum Scale Policy Scripts
+* Lab Services contacts:
+  - Nils Haustein <nils_haustein@de.ibm.com>
+* Programming language: Bash
+* Links:
+  - [GitHub](https://github.com/nhaustein/spectrum-scale-policy-scripts)
+  - [Whitepaper](https://www.ibm.com/support/pages/node/6355577)
+
+- **Description:**
+  This project includes scripts and policies for IBM Spectrum Scale ILM in combination with IBM Spectrum Archive Enterprise Edition and IBM Spectrum Protect for Space Management.
 
 
 ### Spectrum Archive Enterprise Edition Check (check_spectrumarchive.sh)
