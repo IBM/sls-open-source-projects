@@ -189,8 +189,7 @@ Curated list of open source projects which are either created by [IBM Lab Servic
   - Nils Haustein <nils_haustein@de.ibm.com>
 * Programming language: Bash
 * Links:
-  - [GitHub](https://github.com/nhaustein/spectrum-scale-policy-scripts)
-  - [Whitepaper](https://www.ibm.com/support/pages/node/6355577)
+  - [GitHub](https://github.com/nhaustein/SpectrumScaleAutomation)
 
 - **Description:**
   This project describes a framework for automation of Spectrum Scale storage services, such as backup (mmbackup), tiering (mmapplypolicy) and Scale out Backup and Recovery (Sobar).
