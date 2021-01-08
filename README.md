@@ -3,6 +3,29 @@
 Curated list of open source projects which are either created by [IBM Lab Services](https://www.ibm.com/it-infrastructure/services/lab-services) consultants, or to which Lab Services consultants contribute to. [Please bring your own!](CONTRIBUTING.md)
 
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [IBM Spectrum Scale (GPFS) - Ansible Role](#ibm-spectrum-scale-gpfs---ansible-role)
+- [IBM Spectrum Virtualize IP-Quorum - Ansible Role](#ibm-spectrum-virtualize-ip-quorum---ansible-role)
+- [IBM Spectrum Control - Ansible Role](#ibm-spectrum-control---ansible-role)
+- [IBM DB2 - Ansible Role](#ibm-db2---ansible-role)
+- [IBM Spectrum Virtualize - Ansible playbooks](#ibm-spectrum-virtualize---ansible-playbooks)
+- [BaaSapi - GUI for hyperledger fabric network](#baasapi---gui-for-hyperledger-fabric-network)
+- [Docker Files for s390x](#docker-files-for-s390x)
+- [IBM Data Privacy Passports - Hands-on Lab](#ibm-data-privacy-passports---hands-on-lab)
+- [Pervasive Encryption - Hands-on Lab](#pervasive-encryption---hands-on-lab)
+- [Spectrum Virtualize Check (SVCheck)](#spectrum-virtualize-check-svcheck)
+- [Spectrum Scale Policy Scripts](#spectrum-scale-policy-scripts)
+- [Spectrum Scale Automation](#spectrum-scale-automation)
+- [Spectrum Archive Enterprise Edition Check (check_spectrumarchive.sh)](#spectrum-archive-enterprise-edition-check-check_spectrumarchivesh)
+- [iRODS Tiered-Storage Tape](#irods-tiered-storage-tape)
+- [Tape Archive REST API](#tape-archive-rest-api)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+
 ## Projects
 
 ### IBM Spectrum Scale (GPFS) - Ansible Role
@@ -15,6 +38,7 @@ Curated list of open source projects which are either created by [IBM Lab Servic
   - [Ansible Galaxy](https://galaxy.ansible.com/acch/spectrum_scale)
   - [GitHub](https://github.com/acch/ansible-scale)
   - [Spectrum Scale GUI Role](https://github.com/acch/ansible-scale-gui)
+  - [Spectrum Scale Installation and Configuration](https://github.com/IBM/ibm-spectrum-scale-install-infra)
 
 - **Description:**
   Highly-customizable Ansible role for installing and configuring IBM Spectrum Scale (GPFS).
@@ -88,7 +112,7 @@ Curated list of open source projects which are either created by [IBM Lab Servic
 ### BaaSapi - GUI for hyperledger fabric network
 * Lab Services contacts:
   - Liyong Li <liyong.li@ibm.com>
-* Programming language: Golang (API) and VUEjs (frontend)
+* Programming language: Golang (API) and Vue.js (frontend)
 * Platform: Linux
 * Links:
   - [GitHub](https://github.com/liyong-li/baasapi)
@@ -146,6 +170,67 @@ Curated list of open source projects which are either created by [IBM Lab Servic
 
 - **Description:**
   This tools generates Excel file of Spectrum Virtualize system via REST API calls.
+
+
+### Spectrum Scale Policy Scripts
+* Lab Services contacts:
+  - Nils Haustein <nils_haustein@de.ibm.com>
+* Programming language: Bash
+* Links:
+  - [GitHub](https://github.com/nhaustein/spectrum-scale-policy-scripts)
+  - [Whitepaper](https://www.ibm.com/support/pages/node/6355577)
+
+- **Description:**
+  This project includes scripts and policies for IBM Spectrum Scale ILM in combination with IBM Spectrum Archive Enterprise Edition and IBM Spectrum Protect for Space Management.
+
+
+## Spectrum Scale Automation
+* Lab Services contacts:
+  - Nils Haustein <nils_haustein@de.ibm.com>
+* Programming language: Bash
+* Links:
+  - [GitHub](https://github.com/nhaustein/spectrum-scale-policy-scripts)
+  - [Whitepaper](https://www.ibm.com/support/pages/node/6355577)
+
+- **Description:**
+  This project describes a framework for automation of Spectrum Scale storage services, such as backup (mmbackup), tiering (mmapplypolicy) and Scale out Backup and Recovery (Sobar).
+
+
+### Spectrum Archive Enterprise Edition Check (check_spectrumarchive.sh)
+* Lab Services contacts:
+  - Nils Haustein <nils_haustein@de.ibm.com>
+  - Jan-Frode Myklebust <jan-frode@no.ibm.com>
+* Programming language: Bash
+* Platform: Nagios / Icinga
+* Links:
+  - [GitHub](https://github.com/nhaustein/check_spectrumarchive)
+
+- **Description:**
+  This utility performs status checks of IBM Spectrum Archive Enterprise Edition components. It can be integrated with the IBM Spectrum Scale event monitoring framework, or with Nagios, Icinga, or compatible monitoring systems.
+
+
+### iRODS Tiered-Storage Tape
+* Lab Services contacts:
+  - Nils Haustein <nils_haustein@de.ibm.com>
+* Programming language: Bash
+* Platform: iRODS
+* Links:
+  - [GitHub](https://github.com/nhaustein/irods-tieredStorage-tape)
+
+- **Description:**
+  This project includes examples for integrating iRODS software with IBM Spectrum Scale™ and Spectrum Archive™ Enterprise Edition.
+
+
+### Tape Archive REST API
+* Lab Services contacts:
+  - Nils Haustein <nils_haustein@de.ibm.com>
+* Programming language: JavaScript
+* Platform: Node.js
+* Links:
+  - [GitHub](https://github.com/nhaustein/tape-archive-api)
+
+- **Description:**
+  The Tape archive REST API facilitates controlling migration and recalls of files managed by IBM Spectrum Archive Enterprise Edition version 1.3.0.3 and above.
 
 
 ## License
