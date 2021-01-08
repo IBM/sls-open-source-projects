@@ -18,8 +18,10 @@ Curated list of open source projects which are either created by [IBM Lab Servic
 - [Pervasive Encryption - Hands-on Lab](#pervasive-encryption---hands-on-lab)
 - [Spectrum Virtualize Check (SVCheck)](#spectrum-virtualize-check-svcheck)
 - [Spectrum Scale Policy Scripts](#spectrum-scale-policy-scripts)
+- [Spectrum Scale Automation](#spectrum-scale-automation)
 - [Spectrum Archive Enterprise Edition Check (check_spectrumarchive.sh)](#spectrum-archive-enterprise-edition-check-check_spectrumarchivesh)
 - [iRODS Tiered-Storage Tape](#irods-tiered-storage-tape)
+- [Tape Archive REST API](#tape-archive-rest-api)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -110,7 +112,7 @@ Curated list of open source projects which are either created by [IBM Lab Servic
 ### BaaSapi - GUI for hyperledger fabric network
 * Lab Services contacts:
   - Liyong Li <liyong.li@ibm.com>
-* Programming language: Golang (API) and VUEjs (frontend)
+* Programming language: Golang (API) and Vue.js (frontend)
 * Platform: Linux
 * Links:
   - [GitHub](https://github.com/liyong-li/baasapi)
@@ -182,6 +184,18 @@ Curated list of open source projects which are either created by [IBM Lab Servic
   This project includes scripts and policies for IBM Spectrum Scale ILM in combination with IBM Spectrum Archive Enterprise Edition and IBM Spectrum Protect for Space Management.
 
 
+## Spectrum Scale Automation
+* Lab Services contacts:
+  - Nils Haustein <nils_haustein@de.ibm.com>
+* Programming language: Bash
+* Links:
+  - [GitHub](https://github.com/nhaustein/spectrum-scale-policy-scripts)
+  - [Whitepaper](https://www.ibm.com/support/pages/node/6355577)
+
+- **Description:**
+  This project describes a framework for automation of Spectrum Scale storage services, such as backup (mmbackup), tiering (mmapplypolicy) and Scale out Backup and Recovery (Sobar).
+
+
 ### Spectrum Archive Enterprise Edition Check (check_spectrumarchive.sh)
 * Lab Services contacts:
   - Nils Haustein <nils_haustein@de.ibm.com>
@@ -205,6 +219,18 @@ Curated list of open source projects which are either created by [IBM Lab Servic
 
 - **Description:**
   This project includes examples for integrating iRODS software with IBM Spectrum Scale™ and Spectrum Archive™ Enterprise Edition.
+
+
+### Tape Archive REST API
+* Lab Services contacts:
+  - Nils Haustein <nils_haustein@de.ibm.com>
+* Programming language: JavaScript
+* Platform: Node.js
+* Links:
+  - [GitHub](https://github.com/nhaustein/tape-archive-api)
+
+- **Description:**
+  The Tape archive REST API facilitates controlling migration and recalls of files managed by IBM Spectrum Archive Enterprise Edition version 1.3.0.3 and above.
 
 
 ## License
