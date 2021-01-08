@@ -17,6 +17,7 @@ Curated list of open source projects which are either created by [IBM Lab Servic
 - [IBM Data Privacy Passports - Hands-on Lab](#ibm-data-privacy-passports---hands-on-lab)
 - [Pervasive Encryption - Hands-on Lab](#pervasive-encryption---hands-on-lab)
 - [Spectrum Virtualize Check (SVCheck)](#spectrum-virtualize-check-svcheck)
+- [Spectrum Archive Enterprise Edition Check (check_spectrumarchive.sh)](#spectrum-archive-enterprise-edition-check-check_spectrumarchivesh)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -165,6 +166,19 @@ Curated list of open source projects which are either created by [IBM Lab Servic
 
 - **Description:**
   This tools generates Excel file of Spectrum Virtualize system via REST API calls.
+
+
+### Spectrum Archive Enterprise Edition Check (check_spectrumarchive.sh)
+* Lab Services contacts:
+  - Nils Haustein <nils_haustein@de.ibm.com>
+  - Jan-Frode Myklebust <jan-frode@no.ibm.com>
+* Programming language: Bash
+* Platform: Nagios / Icinga
+* Links:
+  - [GitHub](https://github.com/nhaustein/check_spectrumarchive)
+
+- **Description:**
+  This utility performs status checks of IBM Spectrum Archive Enterprise Edition components. It can be integrated with the IBM Spectrum Scale event monitoring framework, or with Nagios, Icinga, or compatible monitoring systems.
 
 
 ## License
