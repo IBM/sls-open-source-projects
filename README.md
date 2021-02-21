@@ -244,6 +244,18 @@ Curated list of open source projects which are either created by [IBM Lab Servic
   Utility to query IBM Security Guardium Key Lifecycle Manager (GKLM/SKLM) server status via REST API. Depending on the type of the deployed architecture (Standalone, Multi-Master or Master-Clone) different kind of API endpoints are queried and the responses are evaluated.
 
 
+### IBM Spectrum Scale Bash Command Line Completion
+* Lab Services contacts:
+  - Maarten Kreuger <maarten_kreuger@nl.ibm.com>
+* Programming language: Bash
+* Platform: Linux
+* Links:
+  - [GitHub](https://github.com/MaartenKreuger/scale-completion)
+
+- **Description:**
+  Bash command line completion for IBM Spectrum Scale.
+
+
 ## License
 
 This project is licensed under the terms of the [Creative Commons Zero (CC0 1.0)](LICENSE) license.
