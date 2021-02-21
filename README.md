@@ -232,6 +232,18 @@ Curated list of open source projects which are either created by [IBM Lab Servic
   The Tape archive REST API facilitates controlling migration and recalls of files managed by IBM Spectrum Archive Enterprise Edition version 1.3.0.3 and above.
 
 
+### Key Lifecycle Manager Tools (klmutils)
+* Lab Services contacts:
+  - Daniel Wendler <daniel.wendler@de.ibm.com>
+* Programming language: Python
+* Platform: Python 3
+* Links:
+  - [GitHub](https://github.com/IBM/klmutils)
+
+- **Description:**
+  Utility to query IBM Security Guardium Key Lifecycle Manager (GKLM/SKLM) server status via REST API. Depending on the type of the deployed architecture (Standalone, Multi-Master or Master-Clone) different kind of API endpoints are queried and the responses are evaluated.
+
+
 ## License
 
 This project is licensed under the terms of the [Creative Commons Zero (CC0 1.0)](LICENSE) license.
