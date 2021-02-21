@@ -62,13 +62,13 @@ Curated list of open source projects which are either created by [IBM Lab Servic
   - [Blog/Medium](https://medium.com/@ole.kr.myklebust/automated-ip-quorum-installation-with-ansible-269311b3c23d)
 
 - **Description:**
-  Ansible role for installing and configuring IP-Quorum Service for Spectrum Virtualize (SAN: SVC, FlashSystem, Storwize, v9000)
+  Ansible role for installing and configuring IP-Quorum Service for IBM Spectrum Virtualize (SAN: SVC, FlashSystem, Storwize, v9000).
   IP-Quorum application is used to resolve failure scenarios where half the control canisters/nodes on the cluster become unavailable.
 
 - **User story:**
   The IP-quorum application is a Java application that runs on a separate host. IP-Quorum application is not an service and the host needs Java installed to run.
   Many times the customer asked how could we run this as a service, we created then a service that made it possible to run the service but the whole installation is with several manual steps.
-  So with that i wanted to simplify and automate the installation of IP-Quorum, and with this Ansible role it will install Java, create ip-quorum service, copies in IP-Quorum Java application localy or remotly from Spectrum Virtualize cluster and more.
+  So with that i wanted to simplify and automate the installation of IP-Quorum, and with this Ansible role it will install Java, create ip-quorum service, copies in IP-Quorum Java application localy or remotly from IBM Spectrum Virtualize cluster and more.
 
 
 ### IBM Spectrum Control - Ansible Role
@@ -86,7 +86,7 @@ Curated list of open source projects which are either created by [IBM Lab Servic
   IBM Spectrum Control provides monitoring, automation and analytics for multiple-vendor storage environments.
 
 - **User Story:**
-  The Spectrum Control installation can be sometimes time-consuming, boring and upgrades are getting more frequent. So with that i wanted to simplify and automate the installation of IBM Spectrum Control and IBM DB2.
+  The IBM Spectrum Control installation can be sometimes time-consuming, boring and upgrades are getting more frequent. So with that I wanted to simplify and automate the installation of IBM Spectrum Control and IBM DB2.
 
 
 ### IBM DB2 - Ansible Role
@@ -99,7 +99,7 @@ Curated list of open source projects which are either created by [IBM Lab Servic
   - [GitHub](https://github.com/olemyk/ansible-role-db2)
 
 - **Description:**
-  Ansible role to install IBM DB2 on linux, this project have been forked and updated to work with newer DB2 version and IBM Spectrum Control.
+  Ansible role to install IBM DB2 on Linux, this project have been forked and updated to work with newer DB2 version and IBM Spectrum Control.
 
 
 ### IBM Spectrum Virtualize - Ansible playbooks
@@ -109,11 +109,12 @@ Curated list of open source projects which are either created by [IBM Lab Servic
 * Links:
   - [GitHub](https://github.com/olemyk/ansible-virtualize-playbooks)
   - [Medium](https://medium.com/@ole.kr.myklebust/managing-your-spectrum-virtualize-with-ansible-part-1-6f3ec173948f)
+
 - **Description:**
-  Ansible playbooks examples for the Ansible Collection - ibm.spectrum_virtualize
+  Ansible playbooks examples for the Ansible Collection - ibm.spectrum_virtualize.
 
 
-### BaaSapi - GUI for hyperledger fabric network
+### BaaSapi - GUI for Hyperledger Fabric Network
 * Lab Services contacts:
   - Liyong Li <liyong.li@ibm.com>
 * Programming language: Golang (API) and Vue.js (frontend)
@@ -123,8 +124,8 @@ Curated list of open source projects which are either created by [IBM Lab Servic
   - [PDF](https://github.com/liyong-li/baasapi/blob/master/Blockchain_Platform_Solution_v1.0.pdf)
 
 - **Description:**
-  BaaSapi is a lightweight management UI which allows you to easily manage your hyperledger fabric environments (supported with kubernetes environment).
-  BaaSapi allows you to manage your hyperledger fabric resources (network, organization, nodes, CA, channel, chaincodes and more)!
+  BaaSapi is a lightweight management UI which allows you to easily manage your Hyperledger Fabric environments (supported with Kubernetes).
+  BaaSapi allows you to manage your Hyperledger Fabric resources (network, organization, nodes, CA, channel, chaincodes and more)!
 
 
 ### Docker Files for s390x
@@ -163,7 +164,7 @@ Curated list of open source projects which are either created by [IBM Lab Servic
   Hands-On Lab about Pervasive Encryption for LinuxONE and Linux on IBM Z. A walkthrough for understanding how to encrypt data at speed and volume, at rest and in motion.
 
 
-### Spectrum Virtualize Check (SVCheck)
+### IBM Spectrum Virtualize Check (SVCheck)
 * Lab Services contacts:
   - Luis Bolinches <luis.bolinches@fi.ibm.com>
   - Mika Heino <mika.heino@fi.ibm.com>
@@ -173,10 +174,10 @@ Curated list of open source projects which are either created by [IBM Lab Servic
   - [GitHub](https://github.com/IBM/SVCheck)
 
 - **Description:**
-  This tools generates Excel file of Spectrum Virtualize system via REST API calls.
+  This tools generates Excel file of IBM Spectrum Virtualize system via REST API calls.
 
 
-### Spectrum Scale Policy Scripts
+### IBM Spectrum Scale Policy Scripts
 * Lab Services contacts:
   - Nils Haustein <nils_haustein@de.ibm.com>
 * Programming language: Bash
@@ -188,7 +189,7 @@ Curated list of open source projects which are either created by [IBM Lab Servic
   This project includes scripts and policies for IBM Spectrum Scale ILM in combination with IBM Spectrum Archive Enterprise Edition and IBM Spectrum Protect for Space Management.
 
 
-## Spectrum Scale Automation
+### IBM Spectrum Scale Automation
 * Lab Services contacts:
   - Nils Haustein <nils_haustein@de.ibm.com>
 * Programming language: Bash
@@ -196,10 +197,10 @@ Curated list of open source projects which are either created by [IBM Lab Servic
   - [GitHub](https://github.com/nhaustein/SpectrumScaleAutomation)
 
 - **Description:**
-  This project describes a framework for automation of Spectrum Scale storage services, such as backup (mmbackup), tiering (mmapplypolicy) and Scale out Backup and Recovery (Sobar).
+  This project describes a framework for automation of IBM Spectrum Scale storage services, such as backup (mmbackup), tiering (mmapplypolicy) and Scale out Backup and Recovery (Sobar).
 
 
-### Spectrum Archive Enterprise Edition Check (check_spectrumarchive.sh)
+### IBM Spectrum Archive Enterprise Edition Check (check_spectrumarchive.sh)
 * Lab Services contacts:
   - Nils Haustein <nils_haustein@de.ibm.com>
   - Jan-Frode Myklebust <jan-frode@no.ibm.com>
@@ -221,7 +222,7 @@ Curated list of open source projects which are either created by [IBM Lab Servic
   - [GitHub](https://github.com/nhaustein/irods-tieredStorage-tape)
 
 - **Description:**
-  This project includes examples for integrating iRODS software with IBM Spectrum Scale™ and Spectrum Archive™ Enterprise Edition.
+  This project includes examples for integrating iRODS software with IBM Spectrum Scale and IBM Spectrum Archive Enterprise Edition.
 
 
 ### Tape Archive REST API
