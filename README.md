@@ -195,6 +195,8 @@ Curated list of open source projects which are either created by [IBM Lab Servic
 * Programming language: Bash
 * Links:
   - [GitHub](https://github.com/nhaustein/SpectrumScaleAutomation)
+  - [Presentation](http://files.gpfsug.org/presentations/2017/Manchester/03-1_Automation.pdf)
+  - [Whitepaper](https://www.ibm.com/support/pages/node/6355601)
 
 - **Description:**
   This project describes a framework for automation of IBM Spectrum Scale storage services, such as backup (mmbackup), tiering (mmapplypolicy) and Scale out Backup and Recovery (Sobar).
