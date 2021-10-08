@@ -43,6 +43,7 @@ Curated list of open source projects which are either created by [IBM Lab Servic
   - [GitHub](https://github.com/acch/ansible-scale)
   - [Spectrum Scale GUI Role](https://github.com/acch/ansible-scale-gui)
   - [Spectrum Scale Installation and Configuration](https://github.com/IBM/ibm-spectrum-scale-install-infra)
+  - [Blog/Medium](https://medium.com/possimpible/deploying-spectrum-scale-with-ansible-part1-singel-node-4cd7e48064ec)
 
 - **Description:**
   Highly-customizable Ansible role for installing and configuring IBM Spectrum Scale (GPFS).
