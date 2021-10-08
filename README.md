@@ -3,30 +3,27 @@
 Curated list of open source projects which are either created by [IBM Lab Services](https://www.ibm.com/it-infrastructure/services/lab-services) consultants, or to which Lab Services consultants contribute to. [Please bring your own!](CONTRIBUTING.md)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
-
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-**Table of Contents**
-
--   [Projects](#projects)
-    -   [IBM Spectrum Scale (GPFS) - Ansible Role](#ibm-spectrum-scale-gpfs---ansible-role)
-    -   [IBM Spectrum Virtualize IP-Quorum - Ansible Role](#ibm-spectrum-virtualize-ip-quorum---ansible-role)
-    -   [IBM Spectrum Control - Ansible Role](#ibm-spectrum-control---ansible-role)
-    -   [IBM DB2 - Ansible Role](#ibm-db2---ansible-role)
-    -   [IBM Spectrum Virtualize - Ansible playbooks](#ibm-spectrum-virtualize---ansible-playbooks)
-    -   [BaaSapi - GUI for Hyperledger Fabric Network](#baasapi---gui-for-hyperledger-fabric-network)
-    -   [Docker Files for s390x](#docker-files-for-s390x)
-    -   [IBM Data Privacy Passports - Hands-on Lab](#ibm-data-privacy-passports---hands-on-lab)
-    -   [Pervasive Encryption - Hands-on Lab](#pervasive-encryption---hands-on-lab)
-    -   [IBM Spectrum Virtualize Check (SVCheck)](#ibm-spectrum-virtualize-check-svcheck)
-    -   [IBM Spectrum Scale Policy Scripts](#ibm-spectrum-scale-policy-scripts)
-    -   [IBM Spectrum Scale Automation](#ibm-spectrum-scale-automation)
-    -   [IBM Spectrum Archive Enterprise Edition Check (check_spectrumarchive.sh)](#ibm-spectrum-archive-enterprise-edition-check-check_spectrumarchivesh)
-    -   [iRODS Tiered-Storage Tape](#irods-tiered-storage-tape)
-    -   [Tape Archive REST API](#tape-archive-rest-api)
-    -   [Key Lifecycle Manager Tools (klmutils)](#key-lifecycle-manager-tools-klmutils)
-    -   [IBM Spectrum Scale Bash Command Line Completion](#ibm-spectrum-scale-bash-command-line-completion)
--   [License](#license)
+- [Projects](#projects)
+  - [IBM Spectrum Scale (GPFS) - Ansible Role](#ibm-spectrum-scale-gpfs---ansible-role)
+  - [IBM Spectrum Virtualize IP-Quorum - Ansible Role](#ibm-spectrum-virtualize-ip-quorum---ansible-role)
+  - [IBM Spectrum Control - Ansible Role](#ibm-spectrum-control---ansible-role)
+  - [IBM DB2 - Ansible Role](#ibm-db2---ansible-role)
+  - [IBM Spectrum Virtualize - Ansible playbooks](#ibm-spectrum-virtualize---ansible-playbooks)
+  - [BaaSapi - GUI for Hyperledger Fabric Network](#baasapi---gui-for-hyperledger-fabric-network)
+  - [Docker Files for s390x](#docker-files-for-s390x)
+  - [IBM Data Privacy Passports - Hands-on Lab](#ibm-data-privacy-passports---hands-on-lab)
+  - [Pervasive Encryption - Hands-on Lab](#pervasive-encryption---hands-on-lab)
+  - [IBM Spectrum Virtualize Check (SVCheck)](#ibm-spectrum-virtualize-check-svcheck)
+  - [IBM Spectrum Scale Policy Scripts](#ibm-spectrum-scale-policy-scripts)
+  - [IBM Spectrum Scale Automation](#ibm-spectrum-scale-automation)
+  - [IBM Spectrum Archive Enterprise Edition Check (check_spectrumarchive.sh)](#ibm-spectrum-archive-enterprise-edition-check-check_spectrumarchivesh)
+  - [iRODS Tiered-Storage Tape](#irods-tiered-storage-tape)
+  - [Tape Archive REST API](#tape-archive-rest-api)
+  - [Key Lifecycle Manager Tools (klmutils)](#key-lifecycle-manager-tools-klmutils)
+  - [IBM Spectrum Scale Bash Command Line Completion](#ibm-spectrum-scale-bash-command-line-completion)
+- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
