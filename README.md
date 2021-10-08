@@ -191,7 +191,7 @@ Curated list of open source projects which are either created by [IBM Lab Servic
     -   Nils Haustein <mailto:nils_haustein@de.ibm.com>
 -   Programming language: Bash
 -   Links:
-    -   [GitHub](https://github.com/nhaustein/spectrum-scale-policy-scripts)
+    -   [GitHub](https://github.com/IBM/spectrum-scale-policy-scripts)
     -   [Whitepaper](https://www.ibm.com/support/pages/node/6355577)
 
 
@@ -204,7 +204,7 @@ Curated list of open source projects which are either created by [IBM Lab Servic
     -   Nils Haustein <mailto:nils_haustein@de.ibm.com>
 -   Programming language: Bash
 -   Links:
-    -   [GitHub](https://github.com/nhaustein/SpectrumScaleAutomation)
+    -   [GitHub](https://github.com/IBM/SpectrumScaleAutomation)
     -   [Presentation](http://files.gpfsug.org/presentations/2017/Manchester/03-1_Automation.pdf)
     -   [Whitepaper](https://www.ibm.com/support/pages/node/6355601)
 
@@ -220,7 +220,7 @@ Curated list of open source projects which are either created by [IBM Lab Servic
 -   Programming language: Bash
 -   Platform: Nagios / Icinga
 -   Links:
-    -   [GitHub](https://github.com/nhaustein/check_spectrumarchive)
+    -   [GitHub](https://github.com/IBM/check_spectrumarchive)
 
 
 -   **Description:**
@@ -233,7 +233,7 @@ Curated list of open source projects which are either created by [IBM Lab Servic
 -   Programming language: Bash
 -   Platform: iRODS
 -   Links:
-    -   [GitHub](https://github.com/nhaustein/irods-tieredStorage-tape)
+    -   [GitHub](https://github.com/IBM/irods-tieredStorage-tape)
 
 
 -   **Description:**
@@ -246,7 +246,7 @@ Curated list of open source projects which are either created by [IBM Lab Servic
 -   Programming language: JavaScript
 -   Platform: Node.js
 -   Links:
-    -   [GitHub](https://github.com/nhaustein/tape-archive-api)
+    -   [GitHub](https://github.com/IBM/tape-archive-api)
 
 
 -   **Description:**
