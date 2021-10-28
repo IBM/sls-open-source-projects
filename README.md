@@ -42,6 +42,7 @@ Curated list of open source projects which are either created by [IBM Lab Servic
     -   [Spectrum Scale GUI Role](https://github.com/acch/ansible-scale-gui)
     -   [Spectrum Scale Installation and Configuration](https://github.com/IBM/ibm-spectrum-scale-install-infra)
     -   [Blog/Medium](https://medium.com/possimpible/deploying-spectrum-scale-with-ansible-part1-singel-node-4cd7e48064ec)
+    -   [Ansible Scale Demo](https://github.com/IBM/ansible-scale-demo)
 
 
 -   **Description:**
