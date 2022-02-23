@@ -25,6 +25,7 @@ Curated list of open source projects which are either created by [IBM Lab Servic
   - [IBM Spectrum Scale Bash Command Line Completion](#ibm-spectrum-scale-bash-command-line-completion)
   - [Infrastructure-as-code for IBM Cloud Object Storage Trial VMs](#infrastructure-as-code-for-ibm-cloud-object-storage-trial-vms)
   - [Integration of IBM Spectrum Discover with IBM Spectrum Archive](#integration-of-ibm-spectrum-discover-with-ibm-spectrum-archive)
+  - [IBM Copy Services Manager Rexx Collection](#ibm-copy-services-manager-rexx-collection)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -308,6 +309,20 @@ Curated list of open source projects which are either created by [IBM Lab Servic
 
 -   **Description:**
     This set of program examples accommodates workflows for tape optimized recalls of files using the metadata management capabilities of IBM Spectrum Discover.
+
+### IBM Copy Services Manager Rexx Collection
+
+-   Lab Services contacts:
+    -    Thomas Luther <mailto:tluther@de.ibm.com>
+-   Programming language: REXX
+-   Platform: IBM z
+-   Links:
+    -   [GitHub](https://github.com/IBM/CSM-Rexx-Collection)
+    -   [Blog](https://community.ibm.com/community/user/storage/blogs/thomas-luther1/2022/02/21/how-to-use-ibm-copy-services-manager-rest-api-on-z)
+
+
+-   **Description:**
+    The purpose of this project is to provide Rexx examples to utilize IBM Copy Services Manager. Most examples focus on Rexx on IBM z, but some may be used also with other Rexx distributions on various platforms.
 
 ## License
 
