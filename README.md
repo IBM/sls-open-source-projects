@@ -24,6 +24,7 @@ Curated list of open source projects which are either created by [IBM Lab Servic
   - [Key Lifecycle Manager Tools (klmutils)](#key-lifecycle-manager-tools-klmutils)
   - [IBM Spectrum Scale Bash Command Line Completion](#ibm-spectrum-scale-bash-command-line-completion)
   - [Infrastructure-as-code for IBM Cloud Object Storage Trial VMs](#infrastructure-as-code-for-ibm-cloud-object-storage-trial-vms)
+  - [Integration of IBM Spectrum Discover with IBM Spectrum Archive](#integration-of-ibm-spectrum-discover-with-ibm-spectrum-archive)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -293,6 +294,20 @@ Curated list of open source projects which are either created by [IBM Lab Servic
 
 -   **Description:**
     The purpose of this project is to demonstrate how a pure virtual variant of the IBM Cloud Object Storage (COS) System can be built on top a KVM-based Linux virtualization host.
+
+### Integration of IBM Spectrum Discover with IBM Spectrum Archive
+
+-   Lab Services contacts:
+    -   Nils Haustein <mailto:nils_haustein@de.ibm.com>
+-   Programming language: Bash
+-   Platform: Linux
+-   Links:
+    -   [GitHub](https://github.com/IBM/discover-tape-recall-integration)
+    -   [Blog](https://community.ibm.com/community/user/storage/blogs/nils-haustein1/2022/02/10/spectrumdiscover-taperecall-integration)
+
+
+-   **Description:**
+    This set of program examples accommodates workflows for tape optimized recalls of files using the metadata management capabilities of IBM Spectrum Discover.
 
 ## License
 
