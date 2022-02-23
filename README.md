@@ -10,7 +10,7 @@ Curated list of open source projects which are either created by [IBM Lab Servic
   - [IBM Spectrum Virtualize IP-Quorum - Ansible Role](#ibm-spectrum-virtualize-ip-quorum---ansible-role)
   - [IBM Spectrum Control - Ansible Role](#ibm-spectrum-control---ansible-role)
   - [IBM DB2 - Ansible Role](#ibm-db2---ansible-role)
-  - [IBM Spectrum Virtualize - Ansible playbooks](#ibm-spectrum-virtualize---ansible-playbooks)
+  - [IBM Spectrum Virtualize - Ansible Playbooks](#ibm-spectrum-virtualize---ansible-playbooks)
   - [BaaSapi - GUI for Hyperledger Fabric Network](#baasapi---gui-for-hyperledger-fabric-network)
   - [Docker Files for s390x](#docker-files-for-s390x)
   - [IBM Data Privacy Passports - Hands-on Lab](#ibm-data-privacy-passports---hands-on-lab)
@@ -108,7 +108,7 @@ Curated list of open source projects which are either created by [IBM Lab Servic
 -   **Description:**
     Ansible role to install IBM DB2 on Linux, this project have been forked and updated to work with newer DB2 version and IBM Spectrum Control.
 
-### IBM Spectrum Virtualize - Ansible playbooks
+### IBM Spectrum Virtualize - Ansible Playbooks
 
 -   Lab Services contacts:
     -   Ole Kristian Myklebust <mailto:ole.kristian.myklebust@no.ibm.com>
@@ -141,20 +141,20 @@ Curated list of open source projects which are either created by [IBM Lab Servic
 -   Lab Services contacts:
     -   Guillaume Hoareau <mailto:guillaume_hoareau@fr.ibm.com>
 -   Programming language: Dockerfile
--   Platform: Linux on IBM Z
+-   Platform: Linux on IBM z
 -   Links:
     -   [GitHub](https://github.com/linux-on-ibm-z/dockerfile-examples)
 
 
 -   **Description:**
-    A collection of examples to show how Dockerfiles could be created and used on Linux on IBM Z, LinuxONE or z/OS CX.
+    A collection of examples to show how Dockerfiles could be created and used on Linux on IBM z, LinuxONE or z/OS CX.
 
 ### IBM Data Privacy Passports - Hands-on Lab
 
 -   Lab Services contacts:
     -   Guillaume Hoareau <mailto:guillaume_hoareau@fr.ibm.com>
 -   Programming language: Markdown
--   Platform: Linux on IBM Z
+-   Platform: Linux on IBM z
 -   Links:
     -   [GitHub](https://github.com/guikarai/IBMDPP)
 
@@ -167,13 +167,13 @@ Curated list of open source projects which are either created by [IBM Lab Servic
 -   Lab Services contacts:
     -   Guillaume Hoareau <mailto:guillaume_hoareau@fr.ibm.com>
 -   Programming language: Markdown
--   Platform: Linux on IBM Z
+-   Platform: Linux on IBM z
 -   Links:
     -   [GitHub](https://github.com/guikarai/PE-LinuxONE-1804LTS)
 
 
 -   **Description:**
-    Hands-On Lab about Pervasive Encryption for LinuxONE and Linux on IBM Z. A walkthrough for understanding how to encrypt data at speed and volume, at rest and in motion.
+    Hands-On Lab about Pervasive Encryption for LinuxONE and Linux on IBM z. A walkthrough for understanding how to encrypt data at speed and volume, at rest and in motion.
 
 ### IBM Spectrum Virtualize Check (SVCheck)
 
@@ -282,7 +282,7 @@ Curated list of open source projects which are either created by [IBM Lab Servic
 -   **Description:**
     Bash command line completion for IBM Spectrum Scale.
 
-### Infrastructure-as-code for IBM Cloud Object Storage Trial VMs
+### Infrastructure-as-Code for IBM Cloud Object Storage Trial VM
 
 -   Lab Services contacts:
     -   Mathias Defiebre <mailto:mathias.defiebre@de.ibm.com>
