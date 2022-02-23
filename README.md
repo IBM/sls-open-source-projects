@@ -23,6 +23,7 @@ Curated list of open source projects which are either created by [IBM Lab Servic
   - [Tape Archive REST API](#tape-archive-rest-api)
   - [Key Lifecycle Manager Tools (klmutils)](#key-lifecycle-manager-tools-klmutils)
   - [IBM Spectrum Scale Bash Command Line Completion](#ibm-spectrum-scale-bash-command-line-completion)
+  - [Infrastructure-as-code for IBM Cloud Object Storage Trial VMs](#infrastructure-as-code-for-ibm-cloud-object-storage-trial-vms)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -278,6 +279,20 @@ Curated list of open source projects which are either created by [IBM Lab Servic
 
 -   **Description:**
     Bash command line completion for IBM Spectrum Scale.
+
+### Infrastructure-as-code for IBM Cloud Object Storage Trial VMs
+
+-   Lab Services contacts:
+    -   Mathias Defiebre <mailto:mathias.defiebre@de.ibm.com>
+    -   Harald Seipp <mailto:SEIPP@de.ibm.com>
+-   Programming language: Bash
+-   Platform: Linux
+-   Links:
+    -   [GitHub](https://github.com/hseipp/ibm-cos-vm-iac)
+
+
+-   **Description:**
+    The purpose of this project is to demonstrate how a pure virtual variant of the IBM Cloud Object Storage (COS) System can be built on top a KVM-based Linux virtualization host.
 
 ## License
 
