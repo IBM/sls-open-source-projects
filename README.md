@@ -4,6 +4,7 @@ Curated list of open source projects which are either created by [IBM Lab Servic
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Projects](#projects)
   - [IBM Spectrum Scale (GPFS) - Ansible Role](#ibm-spectrum-scale-gpfs---ansible-role)
@@ -23,7 +24,7 @@ Curated list of open source projects which are either created by [IBM Lab Servic
   - [Tape Archive REST API](#tape-archive-rest-api)
   - [Key Lifecycle Manager Tools (klmutils)](#key-lifecycle-manager-tools-klmutils)
   - [IBM Spectrum Scale Bash Command Line Completion](#ibm-spectrum-scale-bash-command-line-completion)
-  - [Infrastructure-as-code for IBM Cloud Object Storage Trial VMs](#infrastructure-as-code-for-ibm-cloud-object-storage-trial-vms)
+  - [Infrastructure-as-Code for IBM Cloud Object Storage Trial VM](#infrastructure-as-code-for-ibm-cloud-object-storage-trial-vm)
   - [Integration of IBM Spectrum Discover with IBM Spectrum Archive](#integration-of-ibm-spectrum-discover-with-ibm-spectrum-archive)
   - [IBM Copy Services Manager Rexx Collection](#ibm-copy-services-manager-rexx-collection)
 - [License](#license)
@@ -313,7 +314,7 @@ Curated list of open source projects which are either created by [IBM Lab Servic
 ### IBM Copy Services Manager Rexx Collection
 
 -   Lab Services contacts:
-    -    Thomas Luther <mailto:tluther@de.ibm.com>
+    -   Thomas Luther <mailto:tluther@de.ibm.com>
 -   Programming language: REXX
 -   Platform: IBM z
 -   Links:
